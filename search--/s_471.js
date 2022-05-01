@@ -1,0 +1,1 @@
+search_result['471']=["topic_00000000000000A2.html","CurricularUnitController.Delete Method","Deletes a curricular unit"];

@@ -1,0 +1,1 @@
+search_result['481']=["topic_00000000000000A5.html","CurricularUnitController.Create  Method","Gets the view to create a curricular unit"];

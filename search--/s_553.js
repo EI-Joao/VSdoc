@@ -1,0 +1,1 @@
+search_result['553']=["topic_00000000000000BA.html","HelpController Class","Class HelpController that exists just to redirect the current user to help page.\r\nThis class can only be accessed by authorized users"];

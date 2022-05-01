@@ -1,0 +1,1 @@
+search_result['1767']=["topic_0000000000000243.html","EmailFormater.FormatEmail Method","Reads the template file and replaces the header, body and button text with the information in email"];

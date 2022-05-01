@@ -1,0 +1,1 @@
+c['578']=[['579',"GetResult Structure","topic_00000000000001C3.html",1],['584',"GetResultStatus Structure","topic_00000000000001C7.html",1],['588',"PostResult Structure","topic_00000000000001C1.html",1],['591',"Methods","topic_00000000000001BF_methods--.html",1]];

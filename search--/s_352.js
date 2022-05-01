@@ -1,0 +1,1 @@
+search_result['352']=["topic_0000000000000082.html","AboutUsController Class","Class AboutUsController that exists just to redirect the current user to about us page.\r\nThis class can only be accessed by authorized users"];

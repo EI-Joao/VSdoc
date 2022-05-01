@@ -1,0 +1,1 @@
+search_result['647']=["topic_00000000000000D4.html","SuggestionsController Class","Class SuggestionsController that exists just to redirect the current user to suggestions page.\r\nThis class can only be accessed by authorized users"];

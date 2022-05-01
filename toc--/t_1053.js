@@ -1,0 +1,1 @@
+c['1053']=[['1054',"CurricularUnits Property","topic_0000000000000325.html",0],['1055',"HasColumnNames Property","topic_0000000000000329.html",0],['1056',"HasGroups Property","topic_0000000000000327.html",0],['1057',"HasSearsh Property","topic_0000000000000328.html",0],['1058',"Teachers Property","topic_0000000000000326.html",0]];

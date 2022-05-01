@@ -1,0 +1,1 @@
+search_result['537']=["topic_00000000000000B4.html","GroupsController.Details Method","Gets the details for a group"];

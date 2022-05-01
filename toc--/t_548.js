@@ -1,0 +1,1 @@
+c['548']=[['549',"Course Property","topic_00000000000001A6.html",0],['550',"CourseId Property","topic_00000000000001A5.html",0],['551',"GroupsStudents Property","topic_00000000000001A8.html",0],['552',"SchoolYear Property","topic_00000000000001A4.html",0],['553',"StudentTasks Property","topic_00000000000001A7.html",0]];

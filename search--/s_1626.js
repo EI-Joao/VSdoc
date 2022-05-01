@@ -1,0 +1,1 @@
+search_result['1626']=["topic_0000000000000215.html","IDAO\u0026lt;TEntity, TId\u0026gt;.GetAll Method","Gets all objects of TEntity"];

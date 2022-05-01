@@ -1,0 +1,1 @@
+search_result['490']=["topic_00000000000000A7.html","DefinitionsController Class","Class DefinitionsController that controlls the definitions.\r\nThis class can only be accessed by an authorized user."];

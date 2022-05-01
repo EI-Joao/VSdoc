@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"this_testify Reference","topic_000000000000046D.html"],['403',"this_testify.Models.BLL.DB.Groups Namespace","topic_0000000000000123.html"],['417',"GroupStudent Class","topic_0000000000000130.html"],['418',"Properties","topic_0000000000000130_props--.html"],['423',"StudentId Property","topic_0000000000000133.html"]];

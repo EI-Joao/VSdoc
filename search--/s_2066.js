@@ -1,0 +1,1 @@
+search_result['2066']=["topic_00000000000002BA.html","CurricularUnitEditViewModel.Initials Property",""];

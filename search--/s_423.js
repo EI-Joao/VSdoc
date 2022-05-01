@@ -1,0 +1,1 @@
+search_result['423']=["topic_0000000000000097.html","CourseController Class","Class CourseController that executs all the actions for a course."];

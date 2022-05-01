@@ -1,0 +1,1 @@
+search_result['2934']=["topic_000000000000046A.html","LoginStatusViewComponent Class","Class LoginStatusViewComponent that controlls the login status.\r\nThis class can be accessed by unauthorized users"];

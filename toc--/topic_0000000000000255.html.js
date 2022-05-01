@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"this_testify Reference","topic_000000000000046D.html"],['770',"this_testify.Models.Email Namespace","topic_000000000000023C.html"],['780',"EmailTemplates Class","topic_0000000000000244.html"],['781',"Methods","topic_0000000000000244_methods--.html"],['782',"Template Method","topic_0000000000000255.html"]];

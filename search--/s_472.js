@@ -1,0 +1,1 @@
+search_result['472']=["topic_00000000000000A3.html","CurricularUnitController.Edit (Nullable\u0026lt;Int32\u0026gt;) Method","Gets the view to edit a curricular unit"];

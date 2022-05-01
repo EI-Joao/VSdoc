@@ -1,0 +1,1 @@
+search_result['408']=["topic_0000000000000092.html","BaseController.GetTeacherCourses Method","Gets the courses from a teacher"];

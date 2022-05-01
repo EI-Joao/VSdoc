@@ -1,0 +1,1 @@
+search_result['620']=["topic_00000000000000CD.html","SubmissionsController Class","Class SubmissionsController the manages all related to submissions.\r\nThis class can only be accessed by authorized users"];

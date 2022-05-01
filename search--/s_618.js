@@ -1,0 +1,1 @@
+search_result['618']=["topic_00000000000000CC.html","StatisticsController.GetMixedChartGroup Method","Get initial page chart"];

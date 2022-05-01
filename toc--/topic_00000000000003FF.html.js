@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"this_testify Reference","topic_000000000000046D.html"],['1290',"this_testify.Models.ViewModels.User Namespace","topic_00000000000003FD.html"],['1291',"UserDetailsViewModel Class","topic_00000000000003FE.html"],['1292',"Properties","topic_00000000000003FE_props--.html"],['1296',"UserViewModel Property","topic_00000000000003FF.html"]];

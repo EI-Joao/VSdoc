@@ -1,0 +1,1 @@
+search_result['1960']=["topic_0000000000000296.html","CurricularUnitCurseViewModel Class",""];

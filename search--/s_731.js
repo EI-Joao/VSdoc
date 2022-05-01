@@ -1,0 +1,1 @@
+search_result['731']=["topic_00000000000000EA.html","UsersController.Details Method","Gets the details of one user"];

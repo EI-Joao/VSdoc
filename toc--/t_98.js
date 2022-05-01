@@ -1,0 +1,1 @@
+c['98']=[['99',"TeacherRegisterConfirmationModel Constructor","topic_000000000000007E.html",0],['100',"Properties","topic_000000000000007D_props--.html",1],['102',"Methods","topic_000000000000007D_methods--.html",1]];

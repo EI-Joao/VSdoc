@@ -1,0 +1,1 @@
+search_result['395']=["topic_000000000000008F.html","BaseController.GetCurrentUser Method","Gets the current user in the application"];

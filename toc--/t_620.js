@@ -1,0 +1,1 @@
+c['620']=[['621',"BaseDAO\u003cTEntity, TId\u003e Constructor","topic_00000000000001E3.html",0],['622',"Methods","topic_00000000000001E0_methods--.html",1],['628',"Fields","topic_00000000000001E0_vars--.html",1]];

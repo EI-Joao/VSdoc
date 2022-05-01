@@ -1,0 +1,1 @@
+search_result['1619']=["topic_0000000000000213.html","IDAO\u0026lt;TEntity, TId\u0026gt; Interface","Interface IDAO that grants access to some operations in the database"];

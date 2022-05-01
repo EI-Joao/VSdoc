@@ -1,0 +1,1 @@
+search_result['1768']=["topic_0000000000000244.html","EmailTemplates Class","Class EmailTemplates that have all the information to be replaced in a template"];

@@ -1,0 +1,1 @@
+search_result['470']=["topic_00000000000000A1.html","CurricularUnitController.Index Method","Gets all curricular units"];

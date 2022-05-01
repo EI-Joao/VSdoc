@@ -1,0 +1,1 @@
+search_result['2925']=["topic_0000000000000466.html","EmailSender Class","Class EmailSender that inherits from IEmailSender and represents the email sender service"];

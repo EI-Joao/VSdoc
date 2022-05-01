@@ -1,0 +1,1 @@
+search_result['927']=["topic_000000000000012A.html","Group.CurricularUnit Property",""];

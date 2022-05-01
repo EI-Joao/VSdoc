@@ -1,0 +1,1 @@
+search_result['1629']=["topic_0000000000000218.html","IDAO\u0026lt;TEntity, TId\u0026gt;.Delete Method","Deletes a TEntity from the database based on its id"];
